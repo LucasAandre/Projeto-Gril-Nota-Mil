@@ -1,0 +1,12 @@
+[
+    {
+        "restaurante": "KFC",
+        "nota": 5.5,
+        "comentario": "Muito bom"
+    },
+    {
+        "restaurante": "KFC",
+        "nota": 10.0,
+        "comentario": "Excelente"
+    }
+]
